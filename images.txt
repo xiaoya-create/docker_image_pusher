@@ -1,4 +1,7 @@
-apache/seata-server:2.3.0
+maxkeytop/maxkey:latest
+maxkeytop/maxkey-mgt:latest
+maxkeytop/maxkey-frontend:latest
+maxkeytop/maxkey-mgt-frontend:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0 xhofe/alist:latest
 #apache/seata-server:latest
