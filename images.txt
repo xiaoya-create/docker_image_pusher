@@ -1,5 +1,4 @@
-quay.io/kiwigrid/k8s-sidecar:2.2.1
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
+docker.io/grafana/grafana:12.3.1
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0 xhofe/alist:latest
 #apache/seata-server:latest
